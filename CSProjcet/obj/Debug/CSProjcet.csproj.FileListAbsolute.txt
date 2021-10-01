@@ -1,0 +1,7 @@
+C:\Users\YUN\Challenge\CSstudy\CSProjcet\bin\Debug\CSProjcet.exe.config
+C:\Users\YUN\Challenge\CSstudy\CSProjcet\bin\Debug\CSProjcet.exe
+C:\Users\YUN\Challenge\CSstudy\CSProjcet\bin\Debug\CSProjcet.pdb
+C:\Users\YUN\Challenge\CSstudy\CSProjcet\obj\Debug\CSProjcet.csprojAssemblyReference.cache
+C:\Users\YUN\Challenge\CSstudy\CSProjcet\obj\Debug\CSProjcet.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\CSProjcet\obj\Debug\CSProjcet.exe
+C:\Users\YUN\Challenge\CSstudy\CSProjcet\obj\Debug\CSProjcet.pdb

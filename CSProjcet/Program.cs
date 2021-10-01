@@ -10,6 +10,7 @@ namespace CSProjcet
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }
