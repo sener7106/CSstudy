@@ -1,0 +1,7 @@
+C:\Users\YUN\Challenge\CSstudy\CheckPoint04(연습)\bin\Debug\CheckPoint04(연습).exe.config
+C:\Users\YUN\Challenge\CSstudy\CheckPoint04(연습)\bin\Debug\CheckPoint04(연습).exe
+C:\Users\YUN\Challenge\CSstudy\CheckPoint04(연습)\bin\Debug\CheckPoint04(연습).pdb
+C:\Users\YUN\Challenge\CSstudy\CheckPoint04(연습)\obj\Debug\CheckPoint04(연습).csprojAssemblyReference.cache
+C:\Users\YUN\Challenge\CSstudy\CheckPoint04(연습)\obj\Debug\CheckPoint04(연습).csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\CheckPoint04(연습)\obj\Debug\CheckPoint04(연습).exe
+C:\Users\YUN\Challenge\CSstudy\CheckPoint04(연습)\obj\Debug\CheckPoint04(연습).pdb

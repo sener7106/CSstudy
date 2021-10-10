@@ -1,0 +1,7 @@
+C:\Users\YUN\Challenge\CSstudy\003_Stack\bin\Debug\003_Stack.exe.config
+C:\Users\YUN\Challenge\CSstudy\003_Stack\bin\Debug\003_Stack.exe
+C:\Users\YUN\Challenge\CSstudy\003_Stack\bin\Debug\003_Stack.pdb
+C:\Users\YUN\Challenge\CSstudy\003_Stack\obj\Debug\003_Stack.csprojAssemblyReference.cache
+C:\Users\YUN\Challenge\CSstudy\003_Stack\obj\Debug\003_Stack.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\003_Stack\obj\Debug\003_Stack.exe
+C:\Users\YUN\Challenge\CSstudy\003_Stack\obj\Debug\003_Stack.pdb
