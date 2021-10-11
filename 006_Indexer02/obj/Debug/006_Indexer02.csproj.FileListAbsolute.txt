@@ -1,0 +1,7 @@
+C:\Users\YUN\Challenge\CSstudy\006_Indexer02\bin\Debug\006_Indexer02.exe.config
+C:\Users\YUN\Challenge\CSstudy\006_Indexer02\bin\Debug\006_Indexer02.exe
+C:\Users\YUN\Challenge\CSstudy\006_Indexer02\bin\Debug\006_Indexer02.pdb
+C:\Users\YUN\Challenge\CSstudy\006_Indexer02\obj\Debug\006_Indexer02.csprojAssemblyReference.cache
+C:\Users\YUN\Challenge\CSstudy\006_Indexer02\obj\Debug\006_Indexer02.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\006_Indexer02\obj\Debug\006_Indexer02.exe
+C:\Users\YUN\Challenge\CSstudy\006_Indexer02\obj\Debug\006_Indexer02.pdb

@@ -1,0 +1,7 @@
+C:\Users\YUN\Challenge\CSstudy\007_Check\bin\Debug\007_Check.exe.config
+C:\Users\YUN\Challenge\CSstudy\007_Check\bin\Debug\007_Check.exe
+C:\Users\YUN\Challenge\CSstudy\007_Check\bin\Debug\007_Check.pdb
+C:\Users\YUN\Challenge\CSstudy\007_Check\obj\Debug\007_Check.csprojAssemblyReference.cache
+C:\Users\YUN\Challenge\CSstudy\007_Check\obj\Debug\007_Check.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\007_Check\obj\Debug\007_Check.exe
+C:\Users\YUN\Challenge\CSstudy\007_Check\obj\Debug\007_Check.pdb
