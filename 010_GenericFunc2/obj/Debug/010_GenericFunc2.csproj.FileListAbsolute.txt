@@ -1,0 +1,6 @@
+C:\Users\YUN\Challenge\CSstudy\010_GenericFunc2\bin\Debug\010_GenericFunc2.exe.config
+C:\Users\YUN\Challenge\CSstudy\010_GenericFunc2\bin\Debug\010_GenericFunc2.exe
+C:\Users\YUN\Challenge\CSstudy\010_GenericFunc2\bin\Debug\010_GenericFunc2.pdb
+C:\Users\YUN\Challenge\CSstudy\010_GenericFunc2\obj\Debug\010_GenericFunc2.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\010_GenericFunc2\obj\Debug\010_GenericFunc2.exe
+C:\Users\YUN\Challenge\CSstudy\010_GenericFunc2\obj\Debug\010_GenericFunc2.pdb
