@@ -1,0 +1,7 @@
+C:\Users\YUN\Challenge\CSstudy\011_dynamic\bin\Debug\011_dynamic.exe.config
+C:\Users\YUN\Challenge\CSstudy\011_dynamic\bin\Debug\011_dynamic.exe
+C:\Users\YUN\Challenge\CSstudy\011_dynamic\bin\Debug\011_dynamic.pdb
+C:\Users\YUN\Challenge\CSstudy\011_dynamic\obj\Debug\011_dynamic.csprojAssemblyReference.cache
+C:\Users\YUN\Challenge\CSstudy\011_dynamic\obj\Debug\011_dynamic.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\011_dynamic\obj\Debug\011_dynamic.exe
+C:\Users\YUN\Challenge\CSstudy\011_dynamic\obj\Debug\011_dynamic.pdb

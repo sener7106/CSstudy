@@ -1,0 +1,6 @@
+C:\Users\YUN\Challenge\CSstudy\012_where\bin\Debug\012_where.exe.config
+C:\Users\YUN\Challenge\CSstudy\012_where\bin\Debug\012_where.exe
+C:\Users\YUN\Challenge\CSstudy\012_where\bin\Debug\012_where.pdb
+C:\Users\YUN\Challenge\CSstudy\012_where\obj\Debug\012_where.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\012_where\obj\Debug\012_where.exe
+C:\Users\YUN\Challenge\CSstudy\012_where\obj\Debug\012_where.pdb

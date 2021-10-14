@@ -1,0 +1,6 @@
+C:\Users\YUN\Challenge\CSstudy\013_List\bin\Debug\013_List.exe.config
+C:\Users\YUN\Challenge\CSstudy\013_List\bin\Debug\013_List.exe
+C:\Users\YUN\Challenge\CSstudy\013_List\bin\Debug\013_List.pdb
+C:\Users\YUN\Challenge\CSstudy\013_List\obj\Debug\013_List.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\013_List\obj\Debug\013_List.exe
+C:\Users\YUN\Challenge\CSstudy\013_List\obj\Debug\013_List.pdb

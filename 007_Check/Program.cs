@@ -66,34 +66,33 @@ namespace _007_Check
     }
     class Program
     {
-        static void PrintID(Hashtable hashTable)
+        static void PrintID(Hashtable hashtable)
         {
-            foreach(object key in hashTable.Keys)
+            foreach (int key in hashtable.Keys)
             {
-                CStudent castData = (CStudent)hashTable[key];
+                CStudent castData = (CStudent)hashtable[key];
                 castData.PrintID();
             }
         }
-
+        
         static int CheckID(int id, Hashtable hashtable)
         {
             if (hashtable.ContainsKey(id))
                 return id;
-
             return -1;
         }
 
-        static void Main(string[] args)
+       static void Main(string[] args)
         {
             int inputSel = 0;
             int selID = -1;
-
             Hashtable hashStudents = new Hashtable();
 
             while(true)
             {
                 PrintID(hashStudents);
-                Console.WriteLine("=== 성적 입력중 === (0) 나가기");
+                Console.Write("성적 입력중.. (0) 나가기 ");
+
                 if (Console.ReadLine() == "0")
                     break;
 
@@ -104,40 +103,31 @@ namespace _007_Check
                 temp.InputEng();
 
                 hashStudents.Add(temp.ID, temp);
-                Console.WriteLine();
+            
             }
-
-            Console.Clear();
-
+            
             while(true)
             {
-                PrintID(hashStudents);
-                Console.WriteLine("학생 ID를 입력하세요? (0) 나가기 ");
+                Console.WriteLine(" 학생 성적을 입력하세요..  (0) : 나가기 ");
                 inputSel = int.Parse(Console.ReadLine());
 
                 if (inputSel == 0)
                     break;
 
                 selID = CheckID(inputSel, hashStudents);
-
+                
                 if(selID >= 0)
                 {
-                    CStudent selCStudent = (CStudent)hashStudents[selID];
-                    Console.WriteLine();
-                    Console.WriteLine("국어 점수 : {0}", selCStudent.KOR);
-                    Console.WriteLine("수학 점수 : {0}", selCStudent.MATH);
-                    Console.WriteLine("영어 점수 : {0}", selCStudent.ENG);
+                    CStudent selStudent = (CStudent)hashStudents[selID];
 
-                    int total = selCStudent.GetTotal();
-                    Console.WriteLine("총점:  {0}", total);
-                    Console.WriteLine("평균:  {0}", total / hashStudents.Count);
-                    Console.WriteLine();
+                  
+
                 }
-                else
-                {
-                    Console.WriteLine("학생 아이디가 없어요. 다시 입력하세요");
-                }
+                
             }
+
+            
         }
+
     }
 }

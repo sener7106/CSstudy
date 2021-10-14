@@ -1,0 +1,7 @@
+C:\Users\YUN\Challenge\CSstudy\016_Dictionary\bin\Debug\016_Dictionary.exe.config
+C:\Users\YUN\Challenge\CSstudy\016_Dictionary\bin\Debug\016_Dictionary.exe
+C:\Users\YUN\Challenge\CSstudy\016_Dictionary\bin\Debug\016_Dictionary.pdb
+C:\Users\YUN\Challenge\CSstudy\016_Dictionary\obj\Debug\016_Dictionary.csprojAssemblyReference.cache
+C:\Users\YUN\Challenge\CSstudy\016_Dictionary\obj\Debug\016_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\016_Dictionary\obj\Debug\016_Dictionary.exe
+C:\Users\YUN\Challenge\CSstudy\016_Dictionary\obj\Debug\016_Dictionary.pdb
