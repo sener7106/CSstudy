@@ -24,7 +24,9 @@ namespace _015_Stack
 
             Console.WriteLine("\n 배열 데이터로 초기화");
 
-            int[] arrData = { 100, 200, 300 }; 
+            int[] arrData = { 100, 200, 300 };
+
+
         }
 
     }

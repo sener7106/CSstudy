@@ -1,0 +1,6 @@
+C:\Users\YUN\Challenge\CSstudy\019_throw\bin\Debug\019_throw.exe.config
+C:\Users\YUN\Challenge\CSstudy\019_throw\bin\Debug\019_throw.exe
+C:\Users\YUN\Challenge\CSstudy\019_throw\bin\Debug\019_throw.pdb
+C:\Users\YUN\Challenge\CSstudy\019_throw\obj\Debug\019_throw.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\019_throw\obj\Debug\019_throw.exe
+C:\Users\YUN\Challenge\CSstudy\019_throw\obj\Debug\019_throw.pdb

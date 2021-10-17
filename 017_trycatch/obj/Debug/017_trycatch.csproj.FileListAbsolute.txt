@@ -1,0 +1,7 @@
+C:\Users\YUN\Challenge\CSstudy\017_trycatch\bin\Debug\017_trycatch.exe.config
+C:\Users\YUN\Challenge\CSstudy\017_trycatch\bin\Debug\017_trycatch.exe
+C:\Users\YUN\Challenge\CSstudy\017_trycatch\bin\Debug\017_trycatch.pdb
+C:\Users\YUN\Challenge\CSstudy\017_trycatch\obj\Debug\017_trycatch.csprojAssemblyReference.cache
+C:\Users\YUN\Challenge\CSstudy\017_trycatch\obj\Debug\017_trycatch.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\017_trycatch\obj\Debug\017_trycatch.exe
+C:\Users\YUN\Challenge\CSstudy\017_trycatch\obj\Debug\017_trycatch.pdb

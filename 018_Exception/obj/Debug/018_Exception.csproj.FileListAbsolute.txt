@@ -1,0 +1,6 @@
+C:\Users\YUN\Challenge\CSstudy\018_Exception\bin\Debug\018_Exception.exe.config
+C:\Users\YUN\Challenge\CSstudy\018_Exception\bin\Debug\018_Exception.exe
+C:\Users\YUN\Challenge\CSstudy\018_Exception\bin\Debug\018_Exception.pdb
+C:\Users\YUN\Challenge\CSstudy\018_Exception\obj\Debug\018_Exception.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\018_Exception\obj\Debug\018_Exception.exe
+C:\Users\YUN\Challenge\CSstudy\018_Exception\obj\Debug\018_Exception.pdb
