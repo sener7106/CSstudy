@@ -1,0 +1,6 @@
+C:\Users\YUN\Challenge\CSstudy\134_File_StreamWriteReader\bin\Debug\134_File_StreamWriteReader.exe.config
+C:\Users\YUN\Challenge\CSstudy\134_File_StreamWriteReader\bin\Debug\134_File_StreamWriteReader.exe
+C:\Users\YUN\Challenge\CSstudy\134_File_StreamWriteReader\bin\Debug\134_File_StreamWriteReader.pdb
+C:\Users\YUN\Challenge\CSstudy\134_File_StreamWriteReader\obj\Debug\134_File_StreamWriteReader.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\134_File_StreamWriteReader\obj\Debug\134_File_StreamWriteReader.exe
+C:\Users\YUN\Challenge\CSstudy\134_File_StreamWriteReader\obj\Debug\134_File_StreamWriteReader.pdb

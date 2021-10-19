@@ -1,0 +1,6 @@
+C:\Users\YUN\Challenge\CSstudy\022_delegate\bin\Debug\022_delegate.exe.config
+C:\Users\YUN\Challenge\CSstudy\022_delegate\bin\Debug\022_delegate.exe
+C:\Users\YUN\Challenge\CSstudy\022_delegate\bin\Debug\022_delegate.pdb
+C:\Users\YUN\Challenge\CSstudy\022_delegate\obj\Debug\022_delegate.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\022_delegate\obj\Debug\022_delegate.exe
+C:\Users\YUN\Challenge\CSstudy\022_delegate\obj\Debug\022_delegate.pdb

@@ -38,7 +38,7 @@ namespace _006_Indexer02
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             AA aa = new AA();
             for(int i =0; i<10; i++)
             {

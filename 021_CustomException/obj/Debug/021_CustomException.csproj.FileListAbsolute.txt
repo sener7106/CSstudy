@@ -1,0 +1,6 @@
+C:\Users\YUN\Challenge\CSstudy\021_CustomException\bin\Debug\021_CustomException.exe.config
+C:\Users\YUN\Challenge\CSstudy\021_CustomException\bin\Debug\021_CustomException.exe
+C:\Users\YUN\Challenge\CSstudy\021_CustomException\bin\Debug\021_CustomException.pdb
+C:\Users\YUN\Challenge\CSstudy\021_CustomException\obj\Debug\021_CustomException.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\021_CustomException\obj\Debug\021_CustomException.exe
+C:\Users\YUN\Challenge\CSstudy\021_CustomException\obj\Debug\021_CustomException.pdb

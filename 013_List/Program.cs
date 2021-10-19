@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Collections.Generic;
 
 namespace _013_List
 {
@@ -32,4 +31,4 @@ namespace _013_List
                 Console.WriteLine("arrData: " + arrData[i]);
         }
     }
-}ㄹ
+}

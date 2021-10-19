@@ -1,0 +1,6 @@
+C:\Users\YUN\Challenge\CSstudy\024_delegateParam\bin\Debug\024_delegateParam.exe.config
+C:\Users\YUN\Challenge\CSstudy\024_delegateParam\bin\Debug\024_delegateParam.exe
+C:\Users\YUN\Challenge\CSstudy\024_delegateParam\bin\Debug\024_delegateParam.pdb
+C:\Users\YUN\Challenge\CSstudy\024_delegateParam\obj\Debug\024_delegateParam.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\024_delegateParam\obj\Debug\024_delegateParam.exe
+C:\Users\YUN\Challenge\CSstudy\024_delegateParam\obj\Debug\024_delegateParam.pdb

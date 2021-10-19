@@ -1,0 +1,6 @@
+C:\Users\YUN\Challenge\CSstudy\136_File_binary_formatter2\bin\Debug\136_File_binary_formatter2.exe.config
+C:\Users\YUN\Challenge\CSstudy\136_File_binary_formatter2\bin\Debug\136_File_binary_formatter2.exe
+C:\Users\YUN\Challenge\CSstudy\136_File_binary_formatter2\bin\Debug\136_File_binary_formatter2.pdb
+C:\Users\YUN\Challenge\CSstudy\136_File_binary_formatter2\obj\Debug\136_File_binary_formatter2.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\136_File_binary_formatter2\obj\Debug\136_File_binary_formatter2.exe
+C:\Users\YUN\Challenge\CSstudy\136_File_binary_formatter2\obj\Debug\136_File_binary_formatter2.pdb

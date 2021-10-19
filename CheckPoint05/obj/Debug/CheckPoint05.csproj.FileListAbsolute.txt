@@ -1,0 +1,7 @@
+C:\Users\YUN\Challenge\CSstudy\CheckPoint05\obj\Debug\CheckPoint05.csprojAssemblyReference.cache
+C:\Users\YUN\Challenge\CSstudy\CheckPoint05\obj\Debug\CheckPoint05.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\CheckPoint05\bin\Debug\CheckPoint05.exe.config
+C:\Users\YUN\Challenge\CSstudy\CheckPoint05\bin\Debug\CheckPoint05.exe
+C:\Users\YUN\Challenge\CSstudy\CheckPoint05\bin\Debug\CheckPoint05.pdb
+C:\Users\YUN\Challenge\CSstudy\CheckPoint05\obj\Debug\CheckPoint05.exe
+C:\Users\YUN\Challenge\CSstudy\CheckPoint05\obj\Debug\CheckPoint05.pdb

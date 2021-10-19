@@ -1,0 +1,6 @@
+C:\Users\YUN\Challenge\CSstudy\132_File01\bin\Debug\132_File01.exe.config
+C:\Users\YUN\Challenge\CSstudy\132_File01\bin\Debug\132_File01.exe
+C:\Users\YUN\Challenge\CSstudy\132_File01\bin\Debug\132_File01.pdb
+C:\Users\YUN\Challenge\CSstudy\132_File01\obj\Debug\132_File01.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\132_File01\obj\Debug\132_File01.exe
+C:\Users\YUN\Challenge\CSstudy\132_File01\obj\Debug\132_File01.pdb

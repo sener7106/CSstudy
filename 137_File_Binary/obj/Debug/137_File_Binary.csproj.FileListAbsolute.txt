@@ -1,0 +1,6 @@
+C:\Users\YUN\Challenge\CSstudy\137_File_Binary\bin\Debug\137_File_Binary.exe.config
+C:\Users\YUN\Challenge\CSstudy\137_File_Binary\bin\Debug\137_File_Binary.exe
+C:\Users\YUN\Challenge\CSstudy\137_File_Binary\bin\Debug\137_File_Binary.pdb
+C:\Users\YUN\Challenge\CSstudy\137_File_Binary\obj\Debug\137_File_Binary.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\137_File_Binary\obj\Debug\137_File_Binary.exe
+C:\Users\YUN\Challenge\CSstudy\137_File_Binary\obj\Debug\137_File_Binary.pdb

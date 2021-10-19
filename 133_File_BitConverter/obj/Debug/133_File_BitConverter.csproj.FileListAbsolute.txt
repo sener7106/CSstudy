@@ -1,0 +1,6 @@
+C:\Users\YUN\Challenge\CSstudy\133_File_BitConverter\bin\Debug\133_File_BitConverter.exe.config
+C:\Users\YUN\Challenge\CSstudy\133_File_BitConverter\bin\Debug\133_File_BitConverter.exe
+C:\Users\YUN\Challenge\CSstudy\133_File_BitConverter\bin\Debug\133_File_BitConverter.pdb
+C:\Users\YUN\Challenge\CSstudy\133_File_BitConverter\obj\Debug\133_File_BitConverter.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\133_File_BitConverter\obj\Debug\133_File_BitConverter.exe
+C:\Users\YUN\Challenge\CSstudy\133_File_BitConverter\obj\Debug\133_File_BitConverter.pdb

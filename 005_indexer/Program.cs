@@ -34,12 +34,14 @@ namespace _005_indexer
                 aa[i] = i;
             }
 
+            
             aa[0] = 1000;
             aa[1] = 100;
-
+            
             for(int i =0; i<10; i++)
             {
                 Console.WriteLine("aa[{0}]: {1}", i, aa[i]);
+                
             }
         }
     }

@@ -1,0 +1,7 @@
+C:\Users\YUN\Challenge\CSstudy\008_Check\bin\Debug\008_Check.exe.config
+C:\Users\YUN\Challenge\CSstudy\008_Check\bin\Debug\008_Check.exe
+C:\Users\YUN\Challenge\CSstudy\008_Check\bin\Debug\008_Check.pdb
+C:\Users\YUN\Challenge\CSstudy\008_Check\obj\Debug\008_Check.csprojAssemblyReference.cache
+C:\Users\YUN\Challenge\CSstudy\008_Check\obj\Debug\008_Check.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\008_Check\obj\Debug\008_Check.exe
+C:\Users\YUN\Challenge\CSstudy\008_Check\obj\Debug\008_Check.pdb

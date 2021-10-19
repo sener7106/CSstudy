@@ -1,0 +1,6 @@
+C:\Users\YUN\Challenge\CSstudy\005_indexer\bin\Debug\005_indexer.exe.config
+C:\Users\YUN\Challenge\CSstudy\005_indexer\bin\Debug\005_indexer.exe
+C:\Users\YUN\Challenge\CSstudy\005_indexer\bin\Debug\005_indexer.pdb
+C:\Users\YUN\Challenge\CSstudy\005_indexer\obj\Debug\005_indexer.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\005_indexer\obj\Debug\005_indexer.exe
+C:\Users\YUN\Challenge\CSstudy\005_indexer\obj\Debug\005_indexer.pdb

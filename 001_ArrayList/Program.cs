@@ -42,6 +42,7 @@ namespace _001_ArrayList
             {
                 Console.WriteLine("arrCopyList Data : " + data);
             }
+
         }
     }
 }
