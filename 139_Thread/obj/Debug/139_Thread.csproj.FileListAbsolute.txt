@@ -1,0 +1,7 @@
+C:\Users\YUN\Challenge\CSstudy\139_Thread\bin\Debug\139_Thread.exe.config
+C:\Users\YUN\Challenge\CSstudy\139_Thread\bin\Debug\139_Thread.exe
+C:\Users\YUN\Challenge\CSstudy\139_Thread\bin\Debug\139_Thread.pdb
+C:\Users\YUN\Challenge\CSstudy\139_Thread\obj\Debug\139_Thread.csprojAssemblyReference.cache
+C:\Users\YUN\Challenge\CSstudy\139_Thread\obj\Debug\139_Thread.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\139_Thread\obj\Debug\139_Thread.exe
+C:\Users\YUN\Challenge\CSstudy\139_Thread\obj\Debug\139_Thread.pdb

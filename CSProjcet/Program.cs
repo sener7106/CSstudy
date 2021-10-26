@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Collections;
+
 
 namespace CSProjcet
 {
@@ -55,37 +57,43 @@ namespace CSProjcet
     }
     class Program
     {
-        static T AddArray <T>(T[] arrDatas)
-        {
-            dynamic temp = default(T);
-            for (int i = 0; i < arrDatas.Length; i++)
-                temp += arrDatas[i];
-            return temp;
-        }
 
-        static T SumArray <T>(T[] arrDatas)
+        static void Main(string[] args)
         {
-            T temp = default(T);
-            for(int i =0; i< arrDatas.Length; i++)
-            {
-                temp += (dynamic)arrDatas[i];
-            }
-            return temp;
-        }
 
-        static void PrintArray<T>(T[] arrDatas)
-        {
-            foreach (var data in arrDatas)
-                Console.WriteLine("data : {0}", data);
-        }
-       static void Main(String[] args)
-        {
-            int[] arrNums = { 1, 2, 3, 4, 5 };
-
-            Console.WriteLine("AddArray : {0}", AddArray(arrNums));
-            PrintArray(arrNums);
-           
+            string s = "a234";
+            string answer = "";
+            char[] ch = s.ToCharArray();
+            string[] num = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
             
+            
+            List<int> listData = new List<int>();
+
+
+            for (int i = 0; i < ch.Length; i++) {
+                listData.Add((int)ch[i]);
+            }
+
+            listData.Sort((a, b) => { return b - a; });
+
+            for(int i = 0; i < listData.Count; i ++)
+            {
+                answer += (char)listData[i];
+                
+            }
+
+            Console.WriteLine(answer);
+
+            foreach (var data in ch)
+                Console.WriteLine(data);
+
+    
+            
+
         }
     }
-}
+
+    
+ }
+
+

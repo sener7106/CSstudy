@@ -1,0 +1,7 @@
+C:\Users\YUN\Challenge\CSstudy\138_File_CSV\obj\Debug\138_File_CSV.csprojAssemblyReference.cache
+C:\Users\YUN\Challenge\CSstudy\138_File_CSV\obj\Debug\138_File_CSV.csproj.CoreCompileInputs.cache
+C:\Users\YUN\Challenge\CSstudy\138_File_CSV\bin\Debug\138_File_CSV.exe.config
+C:\Users\YUN\Challenge\CSstudy\138_File_CSV\bin\Debug\138_File_CSV.exe
+C:\Users\YUN\Challenge\CSstudy\138_File_CSV\bin\Debug\138_File_CSV.pdb
+C:\Users\YUN\Challenge\CSstudy\138_File_CSV\obj\Debug\138_File_CSV.exe
+C:\Users\YUN\Challenge\CSstudy\138_File_CSV\obj\Debug\138_File_CSV.pdb

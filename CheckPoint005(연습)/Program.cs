@@ -142,7 +142,7 @@ namespace CheckPoint05_연습_
             Console.WriteLine("기준 점수를 입력해주세요.. ");
             string inputData = Console.ReadLine();
             int num = 0;
-
+            
             try
             {
                 num = int.Parse(inputData);
@@ -181,7 +181,7 @@ namespace CheckPoint05_연습_
                     } else
                     {
                         List<CStudent> findList = _listData.FindAll((data) => data.TOTAL <= num);
-
+                        
                         PrintList(findList);
 
                         SortID(findList);
