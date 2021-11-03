@@ -59,7 +59,7 @@ namespace _139_Thread
 
             for (int i = 0; i < 5; i++)
             {
-                Console.WriteLine("RunThread index : {0}, sec: {1:N2}", index, sw.ElapsedMilliseconds / 1000.0f);
+                Console.WriteLine("RunThreadObject index : {0}, sec: {1:N2}", index, sw.ElapsedMilliseconds / 1000.0f);
                 Thread.Sleep(100);
             }
 
